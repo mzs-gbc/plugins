@@ -1,0 +1,12 @@
+.button-login {
+  position: relative;
+  left: 42%;
+  display: inline-block;
+  border-radius: 2px;
+  margin-top: 10px;
+  width: 207px;
+  height: 50px;
+  background-color: white;
+  padding: 0;
+}
+
